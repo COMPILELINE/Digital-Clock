@@ -4,4 +4,4 @@
 
 Degital Clock ( watch current time in window)
 
-> live preview [here](https://custom-drop-down-menu.vercel.app/)
+> live preview [here](https://https://digital-clock-blond.vercel.app/)
